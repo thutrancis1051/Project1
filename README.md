@@ -1,6 +1,13 @@
 # Project1
 Music Guessing Game
 
+LINKS TO SONGS ON TUNEPAD
+song 1) https://tunepad.com/project/57739
+song 2) https://tunepad.com/project/57743
+song 3) https://tunepad.com/project/57763
+song 4) https://tunepad.com/project/57764
+song 5) https://tunepad.com/project/57766
+
 print("Hi there! Welcome to my CIS 1051 project.")
 print("Head over to my link for Tunepad which is where I programmed the intros of 5 songs.")
 print("One-by-one, you will choose your guess for each song here. Let's see how good of a musical ear you have!\n")
